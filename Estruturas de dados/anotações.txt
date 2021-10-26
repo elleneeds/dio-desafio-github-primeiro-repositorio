@@ -1,0 +1,79 @@
+Conceitos iniciais sobre estruturas de dados, arrays e registro
+Estrutura de Dados: é uma estrutura organizada de dados na memória de um computador ou em qualquer dispositivo de armazenamento, de forma que os dados possam ser utilizados de forma correta. Essas estruturas encontram muitas aplicações no desenvolvimento de sistemas, sendo que algumas são altamente especializadas e utilizadas em tarefas específicas. Usando as estruturas adequadas através de algoritmos,podemos trabalhar com uma grande quantidade de dados, como aplicações em bancos de dados ou serviços de busca. Os algoritmos são utilizados para manipular dados nas estruturas de várias formas, como por exemplo : inserir, excluir, procurar e ordenar dados.Em uma estrutura de dados devemos saber como realizar um determinado conjunto de operações básicas,como : inserir dados; excluir dados; localizar um elemento, percorrer todos os itens constituintes da estrutura para visualização; classificar, que se resume em colocar os itens e dados em uma determinada ordem ( numérica, alfabética, etc.).
+Principais estruturas de dados: vetores e matrizes(arrays), registro, lista, pilha, fila, árvore, tabela hash e grafos.
+Vetores e Matrizes
+Vetores e Matrizes ou Arrays são estruturas de dados simples que podem auxiliar quando há muitas variáveis do mesmo tipo em um algoritmo. Vetor ou array unidimensional é uma variável que armazena várias variáveis do mesmo tipo. O vetor é uma estrutura de dados indexada, que pode armazenar uma determinada quantidade de valores do mesmo tipo;
+![img](https://lh3.googleusercontent.com/7WDMjb8U0Ns7Yfdc0x2n18U91ecBrZFJhxxGe1Fvz2wJ9TnW3BbQHrXkIt-lf2OPJKiOt7-B1E6fP8lkwpfulU-OcIz5Fc65BGnCRpZOBnAQ7gtQhadgV8396SOF1cUUX_LMaMIZ)![img](https://lh4.googleusercontent.com/2eAkeEolSh9EADCLsqiikMf8ETuPc-1gczHZvXW6mGwgYq_cW0TlqVK3G83FTPfL8IN7IGBGfywgkda9_N5zPauXG6U7-cT9tPYETHDkfwDLeXjXrA_ksHmzkD_oHydnzRWuoB5Z)
+*exemplo de como podemos percorrer todos os itens :*![img](https://lh6.googleusercontent.com/2SSrGSPFDGrR4CL2jMcq40mcCKnNsBO78yCO-7ITgViHFUVy_Uike50YXaqZ53nybJN3XRZdpHKV00Nup_fs7E4jtAiAy888IaBAgopv0ZLjIOzBGbeJJv5gk459rPxdhPmIzhBV)
+
+
+
+
+
+![img](https://lh6.googleusercontent.com/KDQNwDjbLdxWrkZWQJ-Nnk-9XEjx-TbS5kRn3Bzhc3W5vDbEFHoL5RgTu0P-bZxdn_8igGatbiRwk7TKfqGwn53fixwjuS4kWy0kMWo_Sbt78BvKdvNdKvtnJBXtIfAWnZWk_-tc)
+
+
+
+
+
+
+*Exemplo de como podemos procurar os itens de uma array :*
+*![img](https://lh3.googleusercontent.com/dDKuWVPN64tlYfjT11_iBGkWKuUKZIxMATVQuyzrVMzq7VtMUdTcDzngz66JBx-zGqdNsHVnidNq3ChXcG_44XN9AC9H7CQrd0nyqNAzY-fKNj4esQtNvQtPjJAY1LXfFyEwz7kr)**![img](https://lh5.googleusercontent.com/_UK83Rzz77XK-DYLWF6YwxIyVf1rouom3wUDDAeS7wjn1Yy66Xb-Hiy9XlQeMoIjWINSiwruG87QRFnyl8XTYULG53kGYYU5p2lLOALedJJ8p4CkstZu3RVFBZB5AjsIrNo4pi8W)**![img](https://lh6.googleusercontent.com/cA_FDV4pmdEzaBvOSElTB3u8Nswr7t4qAD8U6KBZqnuf_Sf1rDiKszSm0b0KwrGwtz3YhK7KU0EHLtsqyTEmj1sn2iD0EddZBjlT9_uFlV0Ct7Dye8hkixJgeH983CBWQBHG1VV4)*
+
+
+
+*Exemplo de como cruzar duas arrays :**![img](https://lh4.googleusercontent.com/jOA0fvUJnWONbmAqGiLBrB45Ynd6t9NTB41vSkA2PBDXKKw6MbocF4927Md3hsSv39fov0ewe15QC7cML4GRvU-SZz98hy8DCS1JuKGIR7a22fy4qG0a5-KJeKywl-YZfo_l2b64)**![img](https://lh3.googleusercontent.com/3B-cpEfFMS20DvpE2kc4DmAMayz_hvkRuPX21y8L_KIWf5F9K5DK8ziTBVX8KhYdgFN-_3BKCb_10S3SG5lowqh8oXvvNr0k7AFQGfgc75P3nPc0Ku23cyQB4XVKz6RXhoCeJ5xI)*
+
+Matriz ou array multidimensional é um vetor de vetores. A matriz é um vetor que possui duas ou mais dimensões.
+ *Exemplo de uma matriz 4x3:*![img](https://lh3.googleusercontent.com/bwvFO7Ig0cnwuAjH2knq4egKjvYpFDV_aLouaJezSNrYKRo_9ELMPErxv7Zh9d-DAitSJjJXfelm9MlmXZvgO0ybKDHoI6dOwwmfXsTP2DBop5QfT6xil6SpeCPRoDPvi3y3Fryy)
+
+
+
+
+
+
+
+*![img](https://lh3.googleusercontent.com/plteWOjRdOty9JwEZBWmRLiq7jJ0FJNsN2W1oUuFra9CV8RIjkcDVrAynLPAjBtCn2InCmgYXML17T-McQBJeVxoHGq8YRsUnI09WVdMhPoLXCZOgkD06yQvrvPMgXWdoCNecYH6)**![img](https://lh4.googleusercontent.com/fv2gnFYu5_sYu3M6yG8W1LsWSN2mZiZSu3Tbzyl5B82UMENaXOsFyJumHRxS85qItiNWvIQL6diJXYd9YO_nPzixS6NpTzWOMR0q2jKfxC0uxD-vgnI3GbUOHrC98DZRul2EnBTI)*
+Registro 
+É uma estrutura que fornece um formato especializado para armazenar informações em memória. Enquanto arrays nos permitem armazenar vários dados de um único tipo de dados, o recurso de Registro nos permite armazenar mais de um tipo de dado. Um registro é composto por campos que especificam cada uma das informações que o compõem.
+ *Exemplo de um registro de clientes de uma empresa:* *![img](https://lh3.googleusercontent.com/XMOW7aEHRCc-2ZIvg6w2bsMnRpHaiNvWLVt_QUjhCfIL9LoU1otyF9sWQv5QOfAyZeo9nxak3wxs2Nz0HUybo9nrGIWdLL8YeFX3o-Ph6lKRSr3zM0oHwA_XddG0zXmdwHy8jNNz)*
+Toda estrutura de registro tem um nome (ex: livro), e seus campos podem ser acessados por meio do uso do operador ponto ”.” . Por exemplo, para acessar o preço de um livro, poderíamos utilizar a seguinte declaração : **livro.preco**
+**![img](https://lh3.googleusercontent.com/3cuJG6lOMG4L6QdHUXOd7TuMKkQ3BTuaQShlmgb9ZhBABptKlR_77cwNg9LIiBKEBjQ6OJ-YXPeqMpIm_NmhnhE2KUJCKP0kbkGiL3cB9CA8goEF3vLVkHAmkkjmV-LhAHeY4Gal)**
+Listas, Pilhas e Filas
+Estruturas de Dados do tipo **lista**, armazena dados de um determinado tipo em uma ordem específica.A diferença entre listas e arrays é a de que listas possuem tamanho ajustável, enquanto arrays possuem tamanho fixo.Existem dois tipos de listas:  **ligadas** e **duplamente ligadas.****Ligadas:** nas listas existem os **nós** onde cada um dos **nós** conhece o valor que está sendo armazenado em seu interior além de conhecer o elemento posterior a ele ; por isso ela é chamada de “lista ligada", pois os **nós**  são amarrados com essa indicação de qual é o próximo **nó**. ![img](https://lh3.googleusercontent.com/tiIQC2j_mGcvEWuJ0CD9GvdTZwTR7czzVvT2jxAAekhzWScjrIOfVh-iRWtqVTHUo83reqN4RuS-MuX4azu9_jpg3BzCEtn2nisj_ibor0PjZEpNmkWAQgWceoWLtgiK9T452yVu)
+
+
+
+
+
+**![img](https://lh3.googleusercontent.com/-24YxP-O1MfgVUQtlBT2uEIri9mBAvfx188BgrPeImYSsDAnelmpVPhDMkkuRQAUpNJcqTkYT72Z2BotFyGiQzs5XfkoOU86mgfvhaRq1AbnjANK8iRmVMymJFthQY7jmcCYcyGI)**
+**Duplamente ligada**: é uma variação das listas ligadas. A grande diferença é que elas são bidirecionais. Vimos que, naturalmente, não conseguimos “andar para trás” em listas ligadas, pois os **nós** sabem somente quem é o próximo elemento. Já nas duplamente ligadas, os **nós** sabem quem é o próximo elemento e também quem é o elemento anterior, o que permite a navegação reversa.![img](https://lh3.googleusercontent.com/Y4E3U34OgObdPzJhQeiz-hjhzGAtGknwVmIDIkV4cCRZ7MpyVX0M_KO8fNDS6CJhqMsXHAwyB6Wt4mgX1QV5HSopjoisBkj2MQsjFccj-f7AYX6rB-BGD-0PqCi7v6AT6_C-guzj)
+**Pilhas**: é uma estrutura de dados que serve como uma coleção de elementos, e permite o acesso a somente um item de dados armazenados, somente um pode ser lido ou removido por vez. Existem dois tipos : **LIFO ou UEPS e FIFO ou PEPS**.
+**LIFO/UEPS**: (Last In First Out ou Último que Entra Primeiro que Sai), apresenta o seguinte critério ; o primeiro elemento a ser retirado é o último que tiver sido inserido. ![img](https://lh6.googleusercontent.com/yoNenI3yzSrW7Gsvmrg5pwpU6tkC_Uz_xfF4v_bR5Repk2b1KCX-bCElBIwAc1oZlu_WK7dEsjg8kCfZVDA7ui_q2tD79AyxcZV7mNtnYETU2KF3NCD7IPeodGVTZGLIQ6hUwB_6)
+
+
+
+
+
+
+
+
+**FIFO/ PEPS**: (First In First Out ou Primeiro que Entra Primeiro que Sai), apresenta o seguinte critério; o primeiro elemento a ser retido é o primeiro que tiver sido inserido.
+![img](https://lh3.googleusercontent.com/WaPzWZWxJs1dUDmDP1lKEw87mQu5Tn0ZTz7hZxGmfjjvknlyVwo3L2io8jhKLhLmPDaLp9lR_RlrcKWsLF-El-Xtx2PiLXXdTzllotaHxo-WCrdI-QoFWN7YvOc2nDdtLQNy8UdE)**Filas:** essa estrutura admite a remoção de elementos e inserção de novos sujeita à seguinte regra de operação ; o elemento removido é o que está na estrutura há mais tempo, ou seja, o primeiro objeto inserido na fila é também o primeiro a ser removido seguindo o conceito **FIFO**. ![img](https://lh4.googleusercontent.com/Mo8reZ5LDfwMxQn5MB0m18lRr9MtaaLhrZoKC_HSAYam_h_8Daenj6GemhIvgyprcczD_RvrN1kMIAlvNpNlF_AIoOxAeE92lbICEiJRlhMMlL3YweYMFmlv2yu4ppA8dZacPWtv)
+
+**Árvore:** É uma estrutura de dados que organiza seus elementos de forma hierárquica, onde existe um elemento que fica no topo da **árvore**, chamado de **raiz** e existem os elementos subordinados a ele, que são chamados de **nós** ou  **folhas.**
+![img](https://lh3.googleusercontent.com/63Lsh-gLC92wzrqIjhOw-WyWMT_vQXNK-iqcnWfx28bwq8HfbEJ3gFtPRCW9YetVqFQvwV8Q0gMe0IkGfX0jQ9CWJ-610MbzKyDZ3ZQP8xVwxfPm7RGTESjOA_CeH6N8o64egczD)
+
+
+
+
+
+
+
+
+
+
+
+**Tabela Hash:** uma tabela de dispersão ou espalhamento é uma estrutura de dados especial, que associa chaves de pesquisa a valores. Uma tabela hash é uma generalização da idéia de array, porém utiliza uma função denominada **hashing** para espalhar os elementos, fazendo com que os mesmos fiquem de forma não ordenada dentro do “array” que define a tabela.![img](https://lh5.googleusercontent.com/kFKCcdqD1ECThhm-SKWiKaZqjQaCMgVu_wXsWLoDfUmJWlasBAF9m3A_JQkar4npbCf63W5gjbAtJdZK0IXB2Sm8bTGceIlLJueNqkWJxSy0EjxNhMHrTTXwvuD2DkLLUzIjzS6e)Porque espalhar? A tabela hash permite a associação de **valores**  a **chaves**:**valores:**  é a posição ou índice onde o elemento se encontra. **chaves:** parte da informação que compõe o elemento a ser manipulado.Espalhar facilita a busca na estrutura de dados, pois a partir de uma chave podemos acessar de forma rápida uma posição do “array”.
+**Grafos:** são estruturas que permitem programar a relação entre objetos. Os objetos são **vértices** ou **nós** do grafo, os relacionamentos são **arestas**.
+![img](https://lh6.googleusercontent.com/raJMwfHripGdaQ1YOZi8X8uMCAz0XtU14KK9wuzPrf1yCgnY3ih52YGfy4iMIZ8hqXm6GbRhB-1CR6modDpQiCH3o_fGe9HyKBOS4OpuSArcHDV6t5tCYLpydJMooXTUiyXU4QPA)![img](https://lh6.googleusercontent.com/bvg75Fx9KeIeh3ZW7R2FRkgykQw1QlzqeVQNm-YJV9k7M3EtUb-j6m6rZDDG3pKxv5QTKf7-CV2Fr6ROl_KVAv8IC3rgXAIeyPpwqhpQxu17HZSxdW1TWtwqEjXpKJ4G05_EpSyU)![img](https://lh3.googleusercontent.com/JhhocZbo-o5CkP7NIDAR9sWtlJMGaxYouCV3Fkwnd314bRrsu8FyYqnnFXLrEySQiRtMq3mn0wnAOXrTrebrOOpU6X-ZdMkR0VglZfNieyAyhft6R19hoTX0FF-LbWyNQI5cVCI-)
