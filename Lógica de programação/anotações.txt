@@ -1,0 +1,33 @@
+**<u>O que é lógica de programação ?</u>**
+É apenas o ato de contextualizar a lógica na programação de computadores, buscando a melhor sequência de ações para solucionar um problema. Esta sequência de ações é o que chamamos de **algoritmo**.****
+**Metacognição:** “Pensar como você pensa”
+Abstração : é a habilidade de concentrar nos aspectos essenciais de um contexto qualquer, ignorando características menos importantes ou acidentais. Na programação usa-se abstração para simplificar uma resolução de um problema.
+**Algoritmo:** É uma sequência de passos para resolver um problema, ou aplicar uma função.
+*Exemplo de algoritmo :*  
+
+**Início-dia**              
+
+Acordar              
+
+Levantar da cama              
+
+Beber água               
+
+Preparar o café da manhã              
+
+Comer              
+
+Escovar os dentes              
+
+Estudar               
+
+…          
+
+**Fim-dia                \****
+
+*é necessário indicar o começo e o fim da atividade***
+
+A ordem dos passos de um algoritmo é muito importante pois pode alterar os resultados.
+
+**Função condicional:** uma estrutura condicional é baseada em uma condição que se for atendida o algoritmo toma uma decisão. (If e Else)
+**Pseudocódigo:** É uma forma genérica de escrever um algoritmo, utilizando uma linguagem simples, como por exemplo o português, de forma a ser compreendida por qualquer pessoa (como o exemplo dado anteriormente).
